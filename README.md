@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is James, I am a Software Engineer with 2+ years of experience in various fields of technology, with focus in the areas of frontend development, Technical writing and UX design using multiple programming frameworks.
+[!James' GitHub stats](https://github-readme-stats.vercel.app/api?username=jefedcreator)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **jefedcreator/jefedcreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
