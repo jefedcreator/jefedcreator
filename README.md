@@ -3,9 +3,9 @@ My name is James, I am a Software Engineer with 2+ years of experience in variou
 
 ### Hi there 👋, my name is James
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I am a frontend developer, UX designer and technical writer
+
+I am a frontend software engineer,blockchain solidity developer,UX designer and technical writer
 
 Skills: ANGULAR / TYPESCRIPT/ SOLIDITY/ REACT / JS / HTML / CSS
 
