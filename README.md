@@ -13,7 +13,7 @@ Skills: ANGULAR / TYPESCRIPT/ SOLIDITY/ REACT / JS / HTML / CSS
 - 🌱 I’m currently learning Blockchain development 
 - 👯 I’m looking to collaborate on web3 projects 
 - 📫 How to reach me: jefiene77@gmail.com 
-- 📝 Technical writing for Coinsbench
+- 📝 Technical writing for Coinsbench and Coinmonks
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jefedcreator)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/james-efienemokwu-a384251b5//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/jefedcreator)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@jefedcreator)  
