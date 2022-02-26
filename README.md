@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is James, I am a Software Engineer with 2+ years of experience in various fields of technology, with focus in the areas of frontend development, Technical writing and UX design using multiple programming frameworks.
+My name is James, I am a Software Engineer with 1+ years of experience in various fields of technology, with focus in the areas of frontend development, Technical writing and UX design using multiple programming frameworks.
 
 ### Hi there 👋, my name is James
 #### I am GitHub Readme Generator's creator
