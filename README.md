@@ -1,10 +1,7 @@
 ### Hi there 👋
 My name is James, I am a Software Engineer with 1+ years of experience in various fields of technology, with focus in the areas of frontend development, Technical writing and UX design using multiple programming frameworks.
 
-### Hi there 👋, my name is James
-#### I am GitHub Readme Generator's creator
-
-
+### What I do 👷‍♂️
 I am a frontend software engineer,blockchain solidity developer,UX designer and technical writer
 
 Skills: ANGULAR / TYPESCRIPT/ SOLIDITY/ REACT / JS / HTML / CSS
