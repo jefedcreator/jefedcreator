@@ -119,9 +119,9 @@
 ![openzeppelin](https://img.shields.io/badge/OpenZeppelin-%234B42F5?style=for-the-badge&logo=OpenZeppelin&logoColor=white)
 
 ## Some Statistics About Me
-<div align="center">
 
-![jefedcreator's github stats](https://github-readme-stats.vercel.app/api?username=jefedcreator&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko)<br>
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jefedcreator&show_icons=true&include_all_commits=true&hide_border=true" alt="Austin's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefedcreator&langs_count=7&layout=compact&hide_border=true" alt="Austin's GitHub stats" />
 
 </div>
 
