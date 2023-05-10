@@ -119,11 +119,12 @@
 ![openzeppelin](https://img.shields.io/badge/OpenZeppelin-%234B42F5?style=for-the-badge&logo=OpenZeppelin&logoColor=white)
 
 ## Some Statistics About Me
-
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jefedcreator&show_icons=true&include_all_commits=true&hide_border=true" alt="Austin's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefedcreator&langs_count=7&layout=compact&hide_border=true" alt="Austin's GitHub stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jefedcreator&include_all_commits=true&count_private=true&show_owner=true&show_icons=true" alt="jefedcreator's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefedcreator&langs_count=7&layout=compact&hide_border=true" alt="jefedcreator's GitHub stats" />
 
 </div>
+
 
 <h3 align="center">Connect with me</h3>
 <div style="margin-top:10px" align="center">
