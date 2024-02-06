@@ -1,9 +1,8 @@
 <h1 align="center"> Hello, I'm James Efienemokwu</h1>
 <p align="center">I'm a Full Stack Developer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.</p>
 
-- 🔭 I’m currently working on Mail App
-- 🌱 I’m currently learning Typescript and django
-- 👯 I’m looking to collaborate on fullstack project
+- 🔭 I’m currently working on a web3 payment solution
+- 👯 I’m looking to collaborate on innovative projects
 - 💬 Ask me about blockchain and dApp development
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/jefedcreator/)
   , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:jefiene77@gmail.com)
