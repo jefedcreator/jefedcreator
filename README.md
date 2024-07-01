@@ -1,2 +1,2 @@
-<h1 align="center"> James Efienemokwu. Fullstack product developer.</h1>
+James Efienemokwu. Fullstack product developer.
 
