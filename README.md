@@ -1,2 +1,2 @@
-James Efienemokwu. Fullstack product developer.
+Fullstack product developer.
 
